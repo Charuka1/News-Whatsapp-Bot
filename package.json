@@ -7,8 +7,7 @@
     "start": "node index.js",
     "stop": "stop index.js",
     "lint": "eslint .",
-    "test": "jest",
-    "build": "webpack --mode production"
+    "test": "jest"
   },
   "license": "ISC",
   "dependencies": {
